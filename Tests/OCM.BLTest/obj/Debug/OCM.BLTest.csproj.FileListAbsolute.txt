@@ -1,0 +1,16 @@
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\OCM.BLTest.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\OCM.BLTest.pdb
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\obj\Debug\OCM.BLTest.csproj.AssemblyReference.cache
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\obj\Debug\OCM.BLTest.csproj.CoreCompileInputs.cache
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\obj\Debug\OCM.BLTest.csproj.CopyComplete
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\obj\Debug\OCM.BLTest.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\obj\Debug\OCM.BLTest.pdb
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\OCM.BL.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\Tests\OCM.BLTest\bin\Debug\OCM.BL.pdb

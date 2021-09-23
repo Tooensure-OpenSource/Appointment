@@ -1,0 +1,6 @@
+C:\Users\tooen\source\repos\tooensure.ocm.com\OCM.BL\bin\Debug\OCM.BL.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\OCM.BL\bin\Debug\OCM.BL.pdb
+C:\Users\tooen\source\repos\tooensure.ocm.com\OCM.BL\obj\Debug\OCM.BL.csproj.AssemblyReference.cache
+C:\Users\tooen\source\repos\tooensure.ocm.com\OCM.BL\obj\Debug\OCM.BL.csproj.CoreCompileInputs.cache
+C:\Users\tooen\source\repos\tooensure.ocm.com\OCM.BL\obj\Debug\OCM.BL.dll
+C:\Users\tooen\source\repos\tooensure.ocm.com\OCM.BL\obj\Debug\OCM.BL.pdb
